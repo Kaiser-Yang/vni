@@ -1,0 +1,13 @@
+# Compiled Object files
+*.o
+
+# Excutables
+*.out
+*.exe
+*.app
+
+# build path
+build/
+
+# vscode
+.vscode
